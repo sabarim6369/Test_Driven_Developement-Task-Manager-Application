@@ -1,0 +1,28 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000e\u0000s\u0000t\u0000_\u0000D\u0000r\u0000i\u0000v\u0000e\u0000n\u0000_\u0000D\u0000e\u0000v\u0000e\u0000l\u0000o\u0000p\u0000e\u0000m\u0000e\u0000n\u0000t\u0000-\u0000T\u0000a\u0000s\u0000k\u0000-\u0000M\u0000a\u0000n\u0000a\u0000g\u0000e\u0000r\u0000-\u0000A\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabarim6369/Test_Driven_Developement-Task-Manager-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sabarim6369/Test_Driven_Developement-Task-Manager-Application/issues"
+  },
+  "homepage": "https://github.com/sabarim6369/Test_Driven_Developement-Task-Manager-Application#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.1"
+  }
+}
